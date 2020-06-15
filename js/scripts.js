@@ -43,3 +43,6 @@ function Contact(firstName, lastName, phoneNumber) {
 Contact.prototype.fullName = function() {
   return this.firstName + " " + this.lastName;
 }
+Contact.prototype.updateFirstName = function(firstName) {
+  this.firstName = firstName;
+}
