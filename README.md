@@ -1,53 +1,32 @@
-# [Program Title]
+# Address Book
  
   ### By Beverly Potts
  
 ## Description
  
-  [Description of program functionality & intent presented as an elevator pitch]
+  This program contains constructors for AddressBook and Contact objects, along with methods for storing Contact objects within the AddressBook objects, assigning IDs to each contact, finding, deleting, and modifying contacts.
  
 ## Languages & Technologies Used:
  
   ### Programming Languages & Libraries
-  * [Unordered List]
+  * JavaScript
  
   ### Operating Systems & Programs
-  * [Unordered List]
+  * VS Code
  
 ## Installation
  
-  1. Open a web browser, such as Google Chrome, and navigate to https://github.com/BAPotts/[repository].
+  1. Open a web browser, such as Google Chrome, and navigate to https://github.com/BAPotts/address-book 
   3. Click the green "Clone or download" button at the right of the screen.
   4. Select "Download ZIP."
-  5. Use a file extractor or unzip program (such as PeaZip, Unzipper, WinZip, Zipware, or 7-ZIP) to extract the ZIP files onto your computer.
+  5. Use an unzip program like winZip unzip the ZIP files onto your computer.
   6. Open the directory containing the extracted files.
-  7. Double-click the "index.html" file to run the program through your web browser.
+
  
-## Specifications
- 
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
- 
+
 ## Known Bugs
  
   * No known bugs at this time. 
-### Contributors
- 
-  * [Contributor(s): Anyone who contributed at least %5 of the total product.]
  
 ### License
  
