@@ -4,7 +4,13 @@ function AddressBook() {
   this.currentID = 0;
 }
 AddressBook.prototype.addContact = function(contact) {
+  contact.id = this.assignID();
   this.contacts.push(contact);
+}
+
+AddressBook.prototype.assignID = function() {
+  this.currentID += 1;
+  return this.currentID;
 }
 //Business Logic for Contacts--------------
 function Contact(firstName, lastName, phoneNumber) {
